@@ -31,10 +31,10 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/next.svg"
+          src="/smileyfinger.gif"
           alt="Next.js Logo"
-          width={180}
-          height={37}
+          width={278}
+          height={256}
           priority
         />
       </div>
